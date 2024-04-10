@@ -26,9 +26,9 @@ class TierraTest {
 	
 	@Test
 	void testIsEquals() {
-		assertTrue(tierra.isEqual(new Tierra()));
-		assertFalse(tierra.isEqual(new Agua()));
-		assertFalse(tierra.isEqual(new Pantano()));
+		assertTrue(tierra.isEquals(new Tierra()));
+		assertFalse(tierra.isEquals(new Agua()));
+		assertFalse(tierra.isEquals(new Pantano()));
 	}
 
 }

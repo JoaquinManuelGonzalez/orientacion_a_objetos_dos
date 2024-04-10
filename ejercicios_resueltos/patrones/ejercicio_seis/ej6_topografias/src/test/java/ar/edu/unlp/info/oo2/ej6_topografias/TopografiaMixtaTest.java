@@ -74,10 +74,13 @@ class TopografiaMixtaTest {
 	
 	@Test
 	void testIsEquals() {
-		assertTrue(mixtaAguaYTierra.isEqual(mixtaAguaYTierra));
-		assertFalse(mixtaAguaYTierra.isEqual(mixtaSoloAguaTierraYMixta));
-		assertFalse(mixtaAguaYTierra.isEqual(mixtaPantanos));
-		assertFalse(mixtaAguaYTierra.isEqual(mixtaPantanosYMixta));
+		assertTrue(mixtaAguaYTierra.isEquals(mixtaAguaYTierra));
+		assertFalse(mixtaAguaYTierra.isEquals(mixtaSoloAguaTierraYMixta));
+		assertFalse(mixtaAguaYTierra.isEquals(mixtaPantanos));
+		assertFalse(mixtaAguaYTierra.isEquals(mixtaPantanosYMixta));
+		assertFalse(mixtaAguaYTierra.isEquals(agua1));
+		assertFalse(mixtaAguaYTierra.isEquals(tierra1));
+		assertFalse(mixtaAguaYTierra.isEquals(pantano1));
 	}
 	
 }

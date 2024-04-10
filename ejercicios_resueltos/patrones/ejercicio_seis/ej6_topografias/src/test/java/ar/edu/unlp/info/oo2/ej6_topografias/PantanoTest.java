@@ -33,9 +33,9 @@ class PantanoTest {
 	
 	@Test
 	void testIsEquals() {
-		assertTrue(pantano.isEqual(new Pantano()));
-		assertFalse(pantano.isEqual(new Tierra()));
-		assertFalse(pantano.isEqual(new Agua()));
+		assertTrue(pantano.isEquals(new Pantano()));
+		assertFalse(pantano.isEquals(new Tierra()));
+		assertFalse(pantano.isEquals(new Agua()));
 	}
 
 }

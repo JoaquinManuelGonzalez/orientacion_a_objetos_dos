@@ -11,4 +11,24 @@ public class Agua extends Topografia {
 		return 1;
 	}
 
+	@Override
+	public boolean isEquals(Agua agua) {
+		return true;
+	}
+
+	@Override
+	public boolean isEquals(Tierra tierra) {
+		return false;
+	}
+
+	@Override
+	public boolean isEquals(Pantano pantano) {
+		return false;
+	}
+	
+	@Override
+	public boolean isEquals(Topografia otraTopografia) {
+		return otraTopografia.isEquals(this);
+	}
+
 }

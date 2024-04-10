@@ -18,19 +18,16 @@ public class TopografiaMixta extends Topografia {
 		this.addComponente(cuartoComponente);
 	}
 	
-	@Override
 	public void addComponente(Topografia componente) {
 		if (!this.isFull()) {
 			this.componentes.add(componente);
 		}
 	}
 	
-	@Override
 	public void removeComponente(Topografia componente) {
 		this.componentes.remove(componente);
 	}
 	
-	@Override
 	public List<Topografia> getComponentes(){
 		return new ArrayList<Topografia>(this.componentes);
 	}
@@ -48,8 +45,37 @@ public class TopografiaMixta extends Topografia {
 	}
 	
 	@Override
-	public boolean isEqual(Topografia otraTopografia) {
-		return this.getComponentes().equals(otraTopografia.getComponentes());
+	public boolean isEquals(Agua agua) {
+		return false;
+	}
+
+	@Override
+	public boolean isEquals(Tierra tierra) {
+		return false;
+	}
+
+	@Override
+	public boolean isEquals(Pantano pantano) {
+		return false;
+	}
+	
+	@Override
+	public boolean isEquals(TopografiaMixta mixta) {
+		Topografia componente1;
+		Topografia componente2;
+		for (int i = 0; i < this.getComponentes().size(); i++) {
+			componente1 = this.getComponentes().get(i);
+			componente2 = mixta.getComponentes().get(i);
+			if (!componente1.isEquals(componente2)) {
+				return false;
+			}
+		}
+		return true;
+	}
+	
+	@Override
+	public boolean isEquals(Topografia otraTopografia) {
+		return otraTopografia.isEquals(this);
 	}
 	
 }
