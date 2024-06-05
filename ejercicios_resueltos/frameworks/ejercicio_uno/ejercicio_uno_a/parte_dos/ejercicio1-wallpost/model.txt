@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-05T15:34:06.617276200Z</date>
+  <millis>1717601646617</millis>
+  <nanos>276200</nanos>
+  <sequence>15</sequence>
+  <logger>app.model</logger>
+  <level>WARNING</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.impl.WallPostImpl</class>
+  <method>like</method>
+  <thread>26</thread>
+  <message>La cantidad de likes llegó a 10.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:14.816068400Z</date>
+  <millis>1717601654816</millis>
+  <nanos>68400</nanos>
+  <sequence>28</sequence>
+  <logger>app.model</logger>
+  <level>WARNING</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.impl.WallPostImpl</class>
+  <method>dislike</method>
+  <thread>26</thread>
+  <message>La cantidad de likes es 0.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:15.859602200Z</date>
+  <millis>1717601655859</millis>
+  <nanos>602200</nanos>
+  <sequence>30</sequence>
+  <logger>app.model</logger>
+  <level>WARNING</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.impl.WallPostImpl</class>
+  <method>dislike</method>
+  <thread>26</thread>
+  <message>La cantidad de likes es 0.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:16.016171200Z</date>
+  <millis>1717601656016</millis>
+  <nanos>171200</nanos>
+  <sequence>32</sequence>
+  <logger>app.model</logger>
+  <level>WARNING</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.impl.WallPostImpl</class>
+  <method>dislike</method>
+  <thread>26</thread>
+  <message>La cantidad de likes es 0.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:16.186105700Z</date>
+  <millis>1717601656186</millis>
+  <nanos>105700</nanos>
+  <sequence>34</sequence>
+  <logger>app.model</logger>
+  <level>WARNING</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.impl.WallPostImpl</class>
+  <method>dislike</method>
+  <thread>26</thread>
+  <message>La cantidad de likes es 0.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:16.724367400Z</date>
+  <millis>1717601656724</millis>
+  <nanos>367400</nanos>
+  <sequence>36</sequence>
+  <logger>app.model</logger>
+  <level>WARNING</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.impl.WallPostImpl</class>
+  <method>dislike</method>
+  <thread>26</thread>
+  <message>La cantidad de likes es 0.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:17.213752200Z</date>
+  <millis>1717601657213</millis>
+  <nanos>752200</nanos>
+  <sequence>38</sequence>
+  <logger>app.model</logger>
+  <level>WARNING</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.impl.WallPostImpl</class>
+  <method>dislike</method>
+  <thread>26</thread>
+  <message>La cantidad de likes es 0.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:17.640375600Z</date>
+  <millis>1717601657640</millis>
+  <nanos>375600</nanos>
+  <sequence>40</sequence>
+  <logger>app.model</logger>
+  <level>WARNING</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.impl.WallPostImpl</class>
+  <method>dislike</method>
+  <thread>26</thread>
+  <message>La cantidad de likes es 0.</message>
+</record>
+</log>

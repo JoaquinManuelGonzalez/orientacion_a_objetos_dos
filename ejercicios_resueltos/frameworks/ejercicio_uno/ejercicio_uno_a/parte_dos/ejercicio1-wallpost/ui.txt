@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-05T15:33:42.320360800Z</date>
+  <millis>1717601622320</millis>
+  <nanos>360800</nanos>
+  <sequence>0</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.app.Ejercicio1Application$1</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>APP iniciada.</message>
+</record>
+<record>
+  <date>2024-06-05T15:33:52.301687700Z</date>
+  <millis>1717601632301</millis>
+  <nanos>687700</nanos>
+  <sequence>1</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI$1</class>
+  <method>insertUpdate</method>
+  <thread>26</thread>
+  <message>Se insertó el título.</message>
+</record>
+<record>
+  <date>2024-06-05T15:33:52.371843900Z</date>
+  <millis>1717601632371</millis>
+  <nanos>843900</nanos>
+  <sequence>2</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI$1</class>
+  <method>insertUpdate</method>
+  <thread>26</thread>
+  <message>Se insertó el título.</message>
+</record>
+<record>
+  <date>2024-06-05T15:33:52.574553600Z</date>
+  <millis>1717601632574</millis>
+  <nanos>553600</nanos>
+  <sequence>3</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI$1</class>
+  <method>insertUpdate</method>
+  <thread>26</thread>
+  <message>Se insertó el título.</message>
+</record>
+<record>
+  <date>2024-06-05T15:33:52.780732500Z</date>
+  <millis>1717601632780</millis>
+  <nanos>732500</nanos>
+  <sequence>4</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI$1</class>
+  <method>insertUpdate</method>
+  <thread>26</thread>
+  <message>Se insertó el título.</message>
+</record>
+<record>
+  <date>2024-06-05T15:33:56.995426300Z</date>
+  <millis>1717601636995</millis>
+  <nanos>426300</nanos>
+  <sequence>5</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$0</method>
+  <thread>26</thread>
+  <message>Se dió like.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:04.145724100Z</date>
+  <millis>1717601644145</millis>
+  <nanos>724100</nanos>
+  <sequence>6</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$0</method>
+  <thread>26</thread>
+  <message>Se dió like.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:04.304527300Z</date>
+  <millis>1717601644304</millis>
+  <nanos>527300</nanos>
+  <sequence>7</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$0</method>
+  <thread>26</thread>
+  <message>Se dió like.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:04.469387300Z</date>
+  <millis>1717601644469</millis>
+  <nanos>387300</nanos>
+  <sequence>8</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$0</method>
+  <thread>26</thread>
+  <message>Se dió like.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:04.835069900Z</date>
+  <millis>1717601644835</millis>
+  <nanos>69900</nanos>
+  <sequence>9</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$0</method>
+  <thread>26</thread>
+  <message>Se dió like.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:05.162199500Z</date>
+  <millis>1717601645162</millis>
+  <nanos>199500</nanos>
+  <sequence>10</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$0</method>
+  <thread>26</thread>
+  <message>Se dió like.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:05.504945900Z</date>
+  <millis>1717601645504</millis>
+  <nanos>945900</nanos>
+  <sequence>11</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$0</method>
+  <thread>26</thread>
+  <message>Se dió like.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:05.901477500Z</date>
+  <millis>1717601645901</millis>
+  <nanos>477500</nanos>
+  <sequence>12</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$0</method>
+  <thread>26</thread>
+  <message>Se dió like.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:06.291738800Z</date>
+  <millis>1717601646291</millis>
+  <nanos>738800</nanos>
+  <sequence>13</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$0</method>
+  <thread>26</thread>
+  <message>Se dió like.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:06.617276200Z</date>
+  <millis>1717601646617</millis>
+  <nanos>276200</nanos>
+  <sequence>14</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$0</method>
+  <thread>26</thread>
+  <message>Se dió like.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:09.853714900Z</date>
+  <millis>1717601649853</millis>
+  <nanos>714900</nanos>
+  <sequence>16</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$2</method>
+  <thread>26</thread>
+  <message>Se marcó como featured.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:11.229660100Z</date>
+  <millis>1717601651229</millis>
+  <nanos>660100</nanos>
+  <sequence>17</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$2</method>
+  <thread>26</thread>
+  <message>Se marcó como featured.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:12.899718600Z</date>
+  <millis>1717601652899</millis>
+  <nanos>718600</nanos>
+  <sequence>18</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$1</method>
+  <thread>26</thread>
+  <message>Se dió dislike.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:13.051547800Z</date>
+  <millis>1717601653051</millis>
+  <nanos>547800</nanos>
+  <sequence>19</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$1</method>
+  <thread>26</thread>
+  <message>Se dió dislike.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:13.196878500Z</date>
+  <millis>1717601653196</millis>
+  <nanos>878500</nanos>
+  <sequence>20</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$1</method>
+  <thread>26</thread>
+  <message>Se dió dislike.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:13.349368300Z</date>
+  <millis>1717601653349</millis>
+  <nanos>368300</nanos>
+  <sequence>21</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$1</method>
+  <thread>26</thread>
+  <message>Se dió dislike.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:13.679457700Z</date>
+  <millis>1717601653679</millis>
+  <nanos>457700</nanos>
+  <sequence>22</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$1</method>
+  <thread>26</thread>
+  <message>Se dió dislike.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:13.826425900Z</date>
+  <millis>1717601653826</millis>
+  <nanos>425900</nanos>
+  <sequence>23</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$1</method>
+  <thread>26</thread>
+  <message>Se dió dislike.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:13.968634500Z</date>
+  <millis>1717601653968</millis>
+  <nanos>634500</nanos>
+  <sequence>24</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$1</method>
+  <thread>26</thread>
+  <message>Se dió dislike.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:14.357621700Z</date>
+  <millis>1717601654357</millis>
+  <nanos>621700</nanos>
+  <sequence>25</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$1</method>
+  <thread>26</thread>
+  <message>Se dió dislike.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:14.506584100Z</date>
+  <millis>1717601654506</millis>
+  <nanos>584100</nanos>
+  <sequence>26</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$1</method>
+  <thread>26</thread>
+  <message>Se dió dislike.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:14.814640200Z</date>
+  <millis>1717601654814</millis>
+  <nanos>640200</nanos>
+  <sequence>27</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$1</method>
+  <thread>26</thread>
+  <message>Se dió dislike.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:15.859602200Z</date>
+  <millis>1717601655859</millis>
+  <nanos>602200</nanos>
+  <sequence>29</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$1</method>
+  <thread>26</thread>
+  <message>Se dió dislike.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:16.014721600Z</date>
+  <millis>1717601656014</millis>
+  <nanos>721600</nanos>
+  <sequence>31</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$1</method>
+  <thread>26</thread>
+  <message>Se dió dislike.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:16.185002100Z</date>
+  <millis>1717601656185</millis>
+  <nanos>2100</nanos>
+  <sequence>33</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$1</method>
+  <thread>26</thread>
+  <message>Se dió dislike.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:16.723364800Z</date>
+  <millis>1717601656723</millis>
+  <nanos>364800</nanos>
+  <sequence>35</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$1</method>
+  <thread>26</thread>
+  <message>Se dió dislike.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:17.213752200Z</date>
+  <millis>1717601657213</millis>
+  <nanos>752200</nanos>
+  <sequence>37</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$1</method>
+  <thread>26</thread>
+  <message>Se dió dislike.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:17.640375600Z</date>
+  <millis>1717601657640</millis>
+  <nanos>375600</nanos>
+  <sequence>39</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI</class>
+  <method>lambda$1</method>
+  <thread>26</thread>
+  <message>Se dió dislike.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:20.250452800Z</date>
+  <millis>1717601660250</millis>
+  <nanos>452800</nanos>
+  <sequence>41</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI$1</class>
+  <method>removeUpdate</method>
+  <thread>26</thread>
+  <message>Se eliminó el título.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:20.392630900Z</date>
+  <millis>1717601660392</millis>
+  <nanos>630900</nanos>
+  <sequence>42</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI$1</class>
+  <method>removeUpdate</method>
+  <thread>26</thread>
+  <message>Se eliminó el título.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:20.546431800Z</date>
+  <millis>1717601660546</millis>
+  <nanos>431800</nanos>
+  <sequence>43</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI$1</class>
+  <method>removeUpdate</method>
+  <thread>26</thread>
+  <message>Se eliminó el título.</message>
+</record>
+<record>
+  <date>2024-06-05T15:34:20.676837300Z</date>
+  <millis>1717601660676</millis>
+  <nanos>837300</nanos>
+  <sequence>44</sequence>
+  <logger>app.ui</logger>
+  <level>INFO</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.ui.WallPostUI$1</class>
+  <method>removeUpdate</method>
+  <thread>26</thread>
+  <message>Se eliminó el título.</message>
+</record>
+</log>
